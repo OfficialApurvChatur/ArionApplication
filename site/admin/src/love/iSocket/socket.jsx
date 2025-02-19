@@ -121,7 +121,7 @@ switch (import.meta.env.VITE_CORPORATION) {
                                         BASE_URL = "https://backend-for-bhagwad-gita-application.onrender.com"
                                         break;
                                     case 'InterviewQuestionApplication':
-                                        BASE_URL = "https://backend-for-interview-question-application.onrender.com"
+                                        BASE_URL = "https://backend-for-interview-question.onrender.com"
                                         break;
                                     default:
                                         break;
